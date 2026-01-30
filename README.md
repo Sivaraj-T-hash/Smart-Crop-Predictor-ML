@@ -28,3 +28,16 @@ An AI-powered agricultural tool developed using **Machine Learning** to recommen
 2. **Install Dependencies**:
    ```bash
    pip install pandas scikit-learn seaborn matplotlib joblib
+
+
+## 👨‍💻 Developer Information
+
+**Sivaraj T**
+* 🎓 **Education**: B.Tech Information Technology student at **Velammal Engineering College**, Chennai[cite: 423, 427].
+* 💻 **Role**: Web Developer & Aspiring Software Engineer.
+* 📍 **Location**: Tiruvannamalai, Tamil Nadu.
+* 📧 **Email**: tsivaraj2007@gmail.com
+
+### 🌐 Connect with Me
+* **GitHub**: [Sivaraj-T-hash](https://github.com/Sivaraj-T-hash)
+* **Portfolio**: [Your Portfolio Link]
